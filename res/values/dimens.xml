@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="square_card_padding">14.0dip</dimen>
+    <dimen name="square_card_min_width">300.0dip</dimen>
+    <dimen name="square_card_max_width">344.0dip</dimen>
+    <dimen name="square_card_min_height">120.0dip</dimen>
+    <dimen name="square_card_invitation_min_height">188.0dip</dimen>
+    <dimen name="profile_card_bottom_padding">18.0dip</dimen>
+
+</resources>
