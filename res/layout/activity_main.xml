@@ -5,9 +5,11 @@
     tools:context=".MainActivity" >
 
     <com.dodola.ui.LazyScrollView
-        android:id="@+id/scrollView1"
+        android:id="@+id/rootScroll"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" >
+        android:layout_height="match_parent" 
+        android:focusable="true"
+        >
 
         <RelativeLayout
             android:id="@+id/rootView"
